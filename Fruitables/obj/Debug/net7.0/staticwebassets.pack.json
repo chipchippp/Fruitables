@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Fruitables.bundle.scp.css"
     },
     {
+      "Id": "C:\\APTECH2210A\\SEM3\\Fruitables\\Fruitables\\wwwroot\\LayoutAdmin\\assets\\css\\crud.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\crud.css"
+    },
+    {
       "Id": "C:\\APTECH2210A\\SEM3\\Fruitables\\Fruitables\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
     },

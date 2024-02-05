@@ -32,26 +32,32 @@
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" asp-area="Identity" asp-page="/Account/Users">
+            <a class="nav-link" asp-controller="Users" asp-action="Index">
                 <span class="menu-title">Users</span>
                 <i class="mdi mdi-contacts menu-icon"></i>
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" asp-controller="Admin" asp-action="Index">
-                <span class="menu-title">Add Products</span>
+            <a class="nav-link" asp-controller="Categories" asp-action="Index">
+                <span class="menu-title">Categories</span>
+                <i class="mdi mdi-contacts menu-icon"></i>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-controller="Products" asp-action="Index">
+                <span class="menu-title">Products</span>
                 <i class="mdi mdi-home menu-icon"></i>
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" asp-controller="Admin" asp-action="Index">
-                <span class="menu-title">Dashboard</span>
+            <a class="nav-link" asp-controller="Orders" asp-action="Index">
+                <span class="menu-title">Orders</span>
                 <i class="mdi mdi-home menu-icon"></i>
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" asp-controller="Admin" asp-action="Index">
-                <span class="menu-title">Ratings</span>
+            <a class="nav-link" asp-controller="OrderProducts" asp-action="Index">
+                <span class="menu-title">OrderProduct</span>
                 <i class="mdi mdi-home menu-icon"></i>
             </a>
         </li>

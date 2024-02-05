@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YCmjwu5/L7bgiQpgS24X2VMhmcInS4hLu0rVc8Vg/Gc=",
+  "Hash": "gpMqzZewKFPz7i2WRUzzRW519J+1Uw0wKrYjBjswgxE=",
   "Source": "Fruitables",
   "BasePath": "_content/Fruitables",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\APTECH2210A\\SEM3\\Fruitables\\Fruitables\\wwwroot\\LayoutAdmin\\assets\\css\\crud.css",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\APTECH2210A\\SEM3\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "LayoutAdmin/assets/css/crud.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\LayoutAdmin\\assets\\css\\crud.css"
     },
     {
       "Identity": "C:\\APTECH2210A\\SEM3\\Fruitables\\Fruitables\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
